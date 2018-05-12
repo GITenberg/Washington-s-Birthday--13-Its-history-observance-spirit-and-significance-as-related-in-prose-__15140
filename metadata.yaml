@@ -1,0 +1,29 @@
+_repo: Washington-s-Birthday--13-Its-history-observance-spirit-and-significance-as-related-in-prose-__15140
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Schauffler, Robert Haven
+    birthdate: 1879
+    deathdate: 1964
+    gutenberg_agent_id: '8328'
+    url: http://www.gutenberg.org/2009/agents/8328
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Haven_Schauffler
+description: ''
+gutenberg_issued: '2005-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington, George, 1732-1799 -- Anniversaries, etc.'
+- !lcc 'E300'
+title: "Washington's Birthday\r\nIts history, observance, spirit, and significance\
+  \ as related in prose and verse, with a selection from Washington's speeches and\
+  \ writings"
+url: http://www.gutenberg.org/ebooks/15140
