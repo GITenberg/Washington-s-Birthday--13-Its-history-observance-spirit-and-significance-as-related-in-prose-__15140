@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8328
     wikipedia: http://en.wikipedia.org/wiki/Robert_Haven_Schauffler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15140#Washington-s-Birthday--13-Its-history-observance-spirit-and-significance-as-related-in-prose-_
 gutenberg_issued: '2005-02-22'
 gutenberg_type: Text
 identifiers:
